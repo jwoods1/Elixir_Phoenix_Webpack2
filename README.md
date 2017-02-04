@@ -1,5 +1,7 @@
 # Elixir_Phoenix_Webpack2
 Elixir Phoenix Webpack 2 starter. 
+  * Has basic webpack.config file
+  * Babel-loader - Sass-loader - file-loader - CopyWebpackPlugin - ExtractTextPlugin
 
 To start your Phoenix app:
 
